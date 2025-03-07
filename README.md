@@ -1,5 +1,5 @@
 # airline_data_challenge
-Problem Statement
+# Context:
 You are working for an airline company looking to enter the United States domestic market.
 Specifically, the company has decided to start with 5 round trip routes between medium and
 large US airports. An example of a round trip route is the combination of JFK to ORD and ORD
